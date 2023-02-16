@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "stdint.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/home/arun/Desktop/peachOS/bin",
+            "binaryPath": "/home/arun/Desktop/peachOS/bin/kernel.bin",
+            "binaryArgs": []
+        }
+    ]
+}
